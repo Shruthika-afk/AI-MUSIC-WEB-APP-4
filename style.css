@@ -1,0 +1,25 @@
+body
+{
+    background-image: url("background.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+#heading 
+{
+    width: 100%;
+}
+
+.button
+{
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px black;
+    border: 5px solid black;
+    border-radius: 20px;
+}
